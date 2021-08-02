@@ -12,11 +12,12 @@ This analysis consists of using big data tools to answer questions about dataset
 6. Git + Github
 
 # Features
+
 1. Find, organize, and format pageviews on any given day.
 2. Follow clickstreams to find relative frequencies of different pages.
 3. Determine relative popularity of page access methods.
 
-# problem statement
+# Problem statement
 
 - Which English wikipedia article got the most traffic on January 20, 2021?
 - What English wikipedia article has the largest fraction of its readers follow an internal link to another wikipedia article?
