@@ -22,6 +22,7 @@ This analysis consists of using big data tools to answer questions about dataset
 - Which English wikipedia article got the most traffic on January 20, 2021?
 - What English wikipedia article has the largest fraction of its readers follow an internal link to another wikipedia article?
 - What series of wikipedia articles, starting with Hotel California, keeps the largest fraction of its readers clicking on internal links.
+- Find an example of an English wikipedia article that is relatively more popular in the Americas than elsewhere.
 
 # Data taken from
 
